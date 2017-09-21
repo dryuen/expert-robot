@@ -4,6 +4,7 @@ body
 	padding: 0px;
 	font-size: 12px;
 	font-family: Arial;
+	align-text: center;
 }
 
 #main-info
@@ -32,7 +33,7 @@ body
 	background: #666666;	
 	padding: 5px;
 	width: 886px;
-	float: left;
+	float: far left;
 	height: 18px;
 }
 
@@ -43,7 +44,7 @@ body
 	width: 886px;
 	float: left;
 	height: 18px;
-	font-size: 14px;
+	font-size: 18px;
 }
 
 #aside-title-audio
@@ -58,12 +59,12 @@ body
 
 #content-frame
 {
-	border: none;
+	border: line;
 }
 	
 #transcript
 {
-	color: green;
+	color: light green;
 	font-size: 12px;
 	overflow: auto;
 	height: 321px;
